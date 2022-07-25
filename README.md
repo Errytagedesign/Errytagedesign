@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Errytagedesign
 - 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning html/CSS and Java script
+- 🌱 I’m currently learning React Native 
 - 💞️ I’m looking to collaborate on frontend development projects
 - 📫 How to reach me ...
 
