@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sodeeq Awoyemi
 - 👀 I’m interested in frontend development, and software engineering
-- 🌱 I’m currently learning Software engineering at alx 
 
 
 ## 🌐 Socials:
