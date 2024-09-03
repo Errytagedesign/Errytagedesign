@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Sodeeq Awoyemi
-- 👀 I’m interested in frontend development, and software engineering
+## 👋 Hi, I’m Sodeeq Awoyemi
+- Passionate Frontend Developer 
+- Crafting Exceptional User Experiences 
+- Expert in Javascript, React, Nextjs, and Redux
+- Dedicated to Delivering Intuitive and Engaging Web Interfaces
+- Open to Opportunities.
 
 
 ## 🌐 Socials:
